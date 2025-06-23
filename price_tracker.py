@@ -25,7 +25,7 @@ interval = 600
 while True:
     # Opening the browser
     browser.get(
-        "https://www.jumia.com.gh/?srsltid=AfmBOoq4xDGmgBb_d-Kd3cTNIQRf27Q938MHxVERyo5ykTm_IeFlX-up"
+        "https://www.jumia.com.gh/"
     )
     print("Site:", browser.title)
 
